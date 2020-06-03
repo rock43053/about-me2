@@ -6,3 +6,9 @@ My name is Alejandro Maldonado. I am a person with a few different backgrounds. 
 -I like buying and reselling tech to try and make some $ or break even but get to review it
 -I like indirectly learning new things
 
+# Profiles
+[LinkedIn](https://www.linkedin.com/in/agm43053/)
+[GitHub](https://github.com/rock43053)
+
+# Technical Skills
+CompTIA A+, Network Engineering, Professional Selling Skills (PSS) Certification, Certified Recruiter
