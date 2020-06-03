@@ -5,3 +5,4 @@ My name is Alejandro Maldonado. I am a person with a few different backgrounds. 
 -I like making youtube videos on wide range of tech stuff that tech youtubers do touch on
 -I like buying and reselling tech to try and make some $ or break even but get to review it
 -I like indirectly learning new things
+
